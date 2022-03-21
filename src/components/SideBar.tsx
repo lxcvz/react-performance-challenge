@@ -1,4 +1,5 @@
 import { Button } from "./Button";
+import { memo } from "react"
 
 interface SideBarProps {
   genres: Array<{
